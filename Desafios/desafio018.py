@@ -11,4 +11,4 @@ seno = sin(radiano)
 cosseno = cos(radiano)
 tangente = tan(radiano)
 
-print('O Seno é {:.3f}, O Cosseno é {:.3f}, Tangente é {:.3f}'.format(seno, cosseno, tangente))
+print('O Seno é {:.2f}, O Cosseno é {:.2f}, Tangente é {:.2f}'.format(seno, cosseno, tangente))
