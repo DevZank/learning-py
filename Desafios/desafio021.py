@@ -3,4 +3,5 @@
 
 from playsound import playsound
 
+print('Tocando música...')
 playsound('Never Gonna Give You Up.mp3')
