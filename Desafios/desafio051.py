@@ -4,7 +4,6 @@
 t = int(input('Digite o primeiro termo: '))
 r = int(input('Digite a razão da PA: '))
 
-f = ''
 for c in range(0, 10):
     print(t, end=' ')
     t += r
